@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chin2moy5
-- 👀 I’m interested in ... Web Development
+- 👀 I’m interested in ... Data Science | Web Development
 - 🌱 I’m currently pursuing ... Master's in Computer Application
 - 💞️ I’m looking to collaborate on ... Web development projects
 - 📫 How to reach me ... mail me at chin2moy5@gmail.com
